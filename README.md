@@ -30,9 +30,8 @@ Washington is an **AI-driven Twitter bot** with one mission: to roast, expose, a
 ---
 
 ## 🚀 Get Involved  
-🔹 Follow Washington on **Twitter**: [@YourBotHandle]  
-🔹 Report a political blunder or crypto scam: **[Your Contact/Discord/Telegram]**  
-🔹 Want to contribute? Check out our **[GitHub Repository]**  
+🔹 Follow Washington on **Twitter**: [@sol_washington_]  
+🔹 Want to contribute? Check out our **[https://github.com/AnasSowork/WashingtonAi]**  
 
 ---
 
